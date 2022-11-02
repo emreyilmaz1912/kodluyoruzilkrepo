@@ -5,7 +5,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde Ilk repo. Iç
 ## Installation
 
 Öncelikle projeyi clonelayın
-'git clone https://github.com/emreyilmaz1912/kodluyoruzilkrepo.git
+`git clone https://github.com/emreyilmaz1912/kodluyoruzilkrepo.git
 
 ## Usage
 
@@ -13,10 +13,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux Için:
 
-'''Java
+```Java
 cd kodluyoruzilkrepo
 code
-'''
+```
 
 ## Contributing 
 
